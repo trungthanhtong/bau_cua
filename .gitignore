@@ -26,3 +26,6 @@ yarn-error.log*
 /src/Hooks
 /src/JSS
 /src/LifeCycleReact
+/src/redux/actions/TodoListAction.js
+/src/redux/types/TodoListTypes.js
+/src/redux/reducers/TodoListReducer.js
